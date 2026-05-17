@@ -1,6 +1,6 @@
 # about.py
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __package__ = "check_my_email"
 __author__ = "Fernando Pujaico Rivera" 
 __email__ = "fernando.pujaico.rivera@gmail.com"

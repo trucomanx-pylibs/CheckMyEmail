@@ -8,6 +8,6 @@ Library for Check my Email
 pip install --upgrade pkginfo twine packaging
 
 cd src
-python -m build
+python3 -m build
 twine upload dist/*
 ```
