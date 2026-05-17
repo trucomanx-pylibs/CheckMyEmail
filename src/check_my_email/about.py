@@ -1,12 +1,12 @@
 # about.py
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __package__ = "check_my_email"
 __author__ = "Fernando Pujaico Rivera" 
 __email__ = "fernando.pujaico.rivera@gmail.com"
 __description__ = "Library for Check my Email"
 __url_source__ = "https://github.com/trucomanx/CheckMyEmail"
-__url_doc__ = "https://github.com/trucomanx/CheckMyEmail"
+__url_doc__ = "https://github.com/trucomanx/CheckMyEmail/tree/main/doc"
 __url_funding__ = "https://trucomanx.github.io/en/funding.html"
 __url_bugs__ = "https://github.com/trucomanx/CheckMyEmail/issues"
 

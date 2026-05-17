@@ -53,11 +53,8 @@ dependencies = [
 "Documentation" = "{__url_doc__}"
 "Source" = "{__url_source__}"
 
-[project.scripts]
-"{__program_name__}" = "{__package__}.program:main"
-
 [tool.setuptools]
-packages = ["{__package__}", "{__package__}.modules"]
+packages = ["{__package__}"]
 
 """
 
