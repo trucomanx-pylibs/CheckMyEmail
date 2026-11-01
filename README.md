@@ -9,7 +9,7 @@ pip install --upgrade check_my_email
 ```
 ## Examples
 
-To see some examples, visit the [example](https://github.com/trucomanx-pylibs/CheckMyEmail/blob/main/test) directory.
+To see some examples, visit the [test](https://github.com/trucomanx-pylibs/CheckMyEmail/blob/main/test) directory.
 
 ## More information
 
